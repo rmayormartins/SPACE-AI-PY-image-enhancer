@@ -1,0 +1,8 @@
+--extra-index-url https://download.pytorch.org/whl/cu117
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+Pillow>=9.3.0
+gradio>=3.41.0
+opencv-python-headless
+git+https://github.com/doevent/Real-ESRGAN.git

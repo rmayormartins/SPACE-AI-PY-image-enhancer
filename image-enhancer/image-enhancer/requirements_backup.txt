@@ -1,0 +1,5 @@
+torch
+Pillow
+numpy
+gradio
+git+https://github.com/doevent/Real-ESRGAN.git
